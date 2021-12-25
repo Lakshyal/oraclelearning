@@ -1,0 +1,6 @@
+Today 26/12/2021 I learnt
+1. What Orcale is..
+2. What languages comes under oracle?(overview)
+3. What is data and information ?
+4. What id data store and types of data store mechanism ?
+5. What is flatfiles and its disadvantages ?
